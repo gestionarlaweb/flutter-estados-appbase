@@ -1,3 +1,4 @@
+// Modelo
 class Usuario {
   String nombre;
   int edad;
