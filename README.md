@@ -1,7 +1,7 @@
-# Estados
+# App Base Estados
 
-Proyecto en diferentes ramas para mostrar los diferentes tipos de estados.
+App base para trabajar más adelante en diferentes ramas los diferentes tipos de estados.
 
-## Tipos de estados
+## Tipos de estados con los que he trabajado
 
 Singleton, Provider, Cubit, BLoc.
